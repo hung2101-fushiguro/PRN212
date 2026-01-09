@@ -1,0 +1,14 @@
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.AssemblyInfoInputs.cache
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.AssemblyInfo.cs
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.csproj.CoreCompileInputs.cache
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.exe
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.deps.json
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.runtimeconfig.json
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.dll
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\bin\Debug\net8.0\ConsoleClass.pdb
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.dll
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\obj\Debug\net8.0\refint\ConsoleClass.dll
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.pdb
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ConsoleClass.genruntimeconfig.cache
+E:\Satoru\Documents\PRN212\Renshuu1\ConsoleClass\ConsoleClass\obj\Debug\net8.0\ref\ConsoleClass.dll

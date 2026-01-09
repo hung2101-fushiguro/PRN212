@@ -1,0 +1,14 @@
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\bin\Debug\net8.0\Tuple.exe
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\bin\Debug\net8.0\Tuple.deps.json
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\bin\Debug\net8.0\Tuple.runtimeconfig.json
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\bin\Debug\net8.0\Tuple.dll
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\bin\Debug\net8.0\Tuple.pdb
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\obj\Debug\net8.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfoInputs.cache
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\obj\Debug\net8.0\Tuple.AssemblyInfo.cs
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\obj\Debug\net8.0\Tuple.csproj.CoreCompileInputs.cache
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\obj\Debug\net8.0\Tuple.dll
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\obj\Debug\net8.0\refint\Tuple.dll
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\obj\Debug\net8.0\Tuple.pdb
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\obj\Debug\net8.0\Tuple.genruntimeconfig.cache
+E:\Satoru\Documents\PRN212\tuples\Tuple\Tuple\obj\Debug\net8.0\ref\Tuple.dll

@@ -1,0 +1,14 @@
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\bin\Debug\net8.0\numericLiteral.exe
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\bin\Debug\net8.0\numericLiteral.deps.json
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\bin\Debug\net8.0\numericLiteral.runtimeconfig.json
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\bin\Debug\net8.0\numericLiteral.dll
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\bin\Debug\net8.0\numericLiteral.pdb
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\obj\Debug\net8.0\numericLiteral.GeneratedMSBuildEditorConfig.editorconfig
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\obj\Debug\net8.0\numericLiteral.AssemblyInfoInputs.cache
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\obj\Debug\net8.0\numericLiteral.AssemblyInfo.cs
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\obj\Debug\net8.0\numericLiteral.csproj.CoreCompileInputs.cache
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\obj\Debug\net8.0\numericLiteral.dll
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\obj\Debug\net8.0\refint\numericLiteral.dll
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\obj\Debug\net8.0\numericLiteral.pdb
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\obj\Debug\net8.0\numericLiteral.genruntimeconfig.cache
+E:\Satoru\Documents\PRN212\console\numericLiteral\numericLiteral\obj\Debug\net8.0\ref\numericLiteral.dll

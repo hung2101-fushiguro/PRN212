@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Satoru\\Documents\\PRN212\\Renshuu1\\ConsoleClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00ADB5F-1553-424C-BD93-CA58FFCF9CD2}|ConsoleClass\\ConsoleClass.csproj|e:\\satoru\\documents\\prn212\\renshuu1\\consoleclass\\consoleclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00ADB5F-1553-424C-BD93-CA58FFCF9CD2}|ConsoleClass\\ConsoleClass.csproj|solutionrelative:consoleclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Satoru\\Documents\\PRN212\\Renshuu1\\ConsoleClass\\ConsoleClass\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleClass\\Program.cs",
+              "ToolTip": "E:\\Satoru\\Documents\\PRN212\\Renshuu1\\ConsoleClass\\ConsoleClass\\Program.cs",
+              "RelativeToolTip": "ConsoleClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T03:40:07.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
