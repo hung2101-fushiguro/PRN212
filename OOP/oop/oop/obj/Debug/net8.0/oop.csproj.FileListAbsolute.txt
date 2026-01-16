@@ -1,0 +1,15 @@
+E:\Satoru\Documents\PRN212\OOP\oop\oop\bin\Debug\net8.0\oop.exe
+E:\Satoru\Documents\PRN212\OOP\oop\oop\bin\Debug\net8.0\oop.deps.json
+E:\Satoru\Documents\PRN212\OOP\oop\oop\bin\Debug\net8.0\oop.runtimeconfig.json
+E:\Satoru\Documents\PRN212\OOP\oop\oop\bin\Debug\net8.0\oop.dll
+E:\Satoru\Documents\PRN212\OOP\oop\oop\bin\Debug\net8.0\oop.pdb
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\oop.AssemblyInfoInputs.cache
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\oop.AssemblyInfo.cs
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\oop.csproj.CoreCompileInputs.cache
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\oop.sourcelink.json
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\oop.dll
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\refint\oop.dll
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\oop.pdb
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\oop.genruntimeconfig.cache
+E:\Satoru\Documents\PRN212\OOP\oop\oop\obj\Debug\net8.0\ref\oop.dll
